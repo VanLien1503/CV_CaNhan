@@ -1,0 +1,25 @@
+.column1 {
+    float: left;
+    width: 250px;
+    height: 200px;
+    padding: 25px;
+}
+.column2{
+    padding: 10px;
+    background: bisque;
+    height: 230px;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 100%;
+    
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+    background-color:aqua;
+    color: fuchsia;
+}
